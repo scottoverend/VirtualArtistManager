@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = VAM
+build_property.ProjectDir = /Users/scottoverend/VAM/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
